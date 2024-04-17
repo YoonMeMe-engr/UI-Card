@@ -1,0 +1,75 @@
+.experi {
+    display: inline-block;
+    font-weight: bolder;
+    font-display: solid;
+}
+
+.globe icon {
+    display: inline-block;
+}
+
+.extra content {
+    display: inline-block;
+    
+}
+
+.degree {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.fir {
+    margin-left: 8px;
+}
+
+.sec {
+    margin-left: 30px;
+}
+
+.thr {
+    margin-left: 30px;
+    display: block;
+}
+
+.Archi {
+    margin-top: 15px;
+}
+
+.archive icon {
+    display: block;
+    
+}
+
+.NE{
+    margin-left: 8px;
+    
+}
+
+.Spectrum {
+    margin-left: 30px;
+    display: flex;
+}
+
+.Git {
+    margin-left: 30px;
+    display: block;
+}
+
+.Security {
+    margin-left: 30px;
+}
+
+.AI {
+    margin-left: 30px;
+}
+
+body {
+ background-color: white;
+ display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    margin: 5px 5px;
+}
+
